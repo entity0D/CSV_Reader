@@ -353,7 +353,7 @@ void CsvReader::StoreData(std::string file_path)
 
 int main()
 {
-	std::string file_path = "F:/airtravel.txt";
+	std::string file_path = "A:/Sample.csv";
 
 	CsvReader obj;
 	obj.delimiter = ',';
