@@ -9,7 +9,7 @@ CSV file example:
 
 Insert File path:
 
-![image](https://user-images.githubusercontent.com/98716830/212400916-93d60071-84c6-4981-8b69-1077cbeb002d.png)
+![image](https://user-images.githubusercontent.com/98716830/212401638-df605897-2a6d-4e3d-affc-6846bb61364b.png)
 
 
 Result:
